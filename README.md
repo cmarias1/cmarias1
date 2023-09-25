@@ -1,4 +1,4 @@
-#Hello
+### Hello
 
 I am a Computer Science major with a minor in Software Engineering at the wonderful Stevens Institute of Technology
 
