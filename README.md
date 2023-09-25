@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+I am a Computer Science major with a minor in Software Engineering at the wonderful Stevens Institute of Technology
 
 <!--
 **cmarias1/cmarias1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
